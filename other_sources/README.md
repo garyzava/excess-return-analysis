@@ -21,7 +21,7 @@ These scripts require the following dependencies:
 To use these scripts, follow these steps:
 
 1. The script `binance_api_fetcher.py`: gets binance data in chunks per epoch.
-2. The script `alphavantage_api_fetcher.py`: gets news data in chunks per 10 days. Verify the rate limits per day on the alphavantage website
+2. The script `alphavantage_api_fetcher.py`: gets news data in chunks of 10 days. Verify the restriction of rate limits per day on the alphavantage website](https://www.alphavantage.co/)
 3. The script `trade_stats_prep.py`: transforms the trade stats data from Binance into hourly and daily timeframes, additionally adds RSI technical analysis metrics.
 
 Run any script using `python -m <script_name.py>`

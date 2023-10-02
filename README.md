@@ -3,11 +3,7 @@
 Predicting the occurrence of news/events that cause an excess return of more than 5% within 48 hours for specific crypto projects: Ethereum and Solana
 
 # Installation
-To install this project, follow these steps:
-
-Clone the repository.
-Install the necessary dependencies using pip install -r requirements.txt.
-Run the project using python main.py.
+All the code is in a Notebook, there is no requirement.txt to install. All the Data can be downloaded on the fly, it only takes a few seconds for the selected timeframe of 18 monhts.
 
 # Dependencies
 This project requires the following dependencies:
